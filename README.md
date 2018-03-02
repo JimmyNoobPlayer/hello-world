@@ -1,2 +1,2 @@
 # hello-world
-Following the time-honored traditioin
+Following the time-honored tradition
